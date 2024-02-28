@@ -1,0 +1,15 @@
+.primera,.segunda{
+    margin-bottom: 40px;
+}
+
+.primera{
+    margin-top: 50px;
+}
+
+.foto{
+    border-radius: 20px;
+}
+
+#pizza{
+    background-color: rgb(251, 222, 222);
+}
